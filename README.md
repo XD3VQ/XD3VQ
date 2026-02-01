@@ -14,6 +14,10 @@
 - 📫 How to reach me: **Check out my GitHub profile**
 - ⚡ Fun fact: **I love to code and build things!**
 
+## My GitHub Space Shooter 🚀
+
+![My GitHub Game](game.gif)
+
 ## 🛠️ Languages and Tools
 
 <p align="left">
