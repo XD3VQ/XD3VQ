@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm XD3VQ</h1>
+<h1 align="center">Hi there 👋, I'm Sharan Venkatapathy</h1>
 <h3 align="center">A passionate developer from around the world</h3>
 
 <p align="center">
@@ -14,7 +14,7 @@
 - 📫 How to reach me: **Check out my GitHub profile**
 - ⚡ Fun fact: **I love to code and build things!**
 
-## My GitHub Space Shooter 🚀
+## My Git repositories
 
 ![My GitHub Game](game.gif)
 
